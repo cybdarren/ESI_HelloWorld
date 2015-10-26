@@ -94,6 +94,7 @@ APP_DATA appData;
 // *****************************************************************************
 
 /* TODO:  Add any necessary local functions.
+ * Some additional comments
 */
 
 
